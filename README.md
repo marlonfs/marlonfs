@@ -2,7 +2,7 @@
 - 👀 I’m interested in science, Python, machine learning, dynamic spatial-temporal modeling, spatial statistics, and techniques for dealing with autocorrelation.
 - 🌱 I’m looking to collaborate on papers on agricultural logistics, transport, storage, and agrifood supply chains. I continue learning Python, focusing on deep learning, automation, and remote sensing.
 - 📫 You can reach me @ marlon.souza@usp.br
- <img width="400" height="173" alt="Dorabadge1" src="https://github.com/user-attachments/assets/40d48ab1-a07d-477a-8eab-88a20ff68c3c" />
+ <img width="200" height="86.5" alt="Dorabadge1" src="https://github.com/user-attachments/assets/40d48ab1-a07d-477a-8eab-88a20ff68c3c" />
 
 
 
